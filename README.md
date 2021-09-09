@@ -1,4 +1,4 @@
-<style>
+<style type="text/css" media="screen">
   .Box{border-color: #0D1117;}
 </style>
 

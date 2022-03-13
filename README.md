@@ -20,4 +20,4 @@ Follow me on Gitlab or Gitea instead.
 - https://gitea.com/usernamer
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usrnamer&layout=compact&show_icons=true&border_color=0D1117&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamer-git&layout=compact&show_icons=true&border_color=0D1117&bg_color=0D1117)

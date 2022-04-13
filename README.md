@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Follow me on Gitlab or Gitea instead.
+Follow me on other git host services instead.
 - https://gitlab.com/usernamer
 - https://gitea.com/usernamer
 - https://codeberg.org/username

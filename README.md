@@ -1,7 +1,3 @@
-<h2>Usernamer <img src="https://media0.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="50"></h2>
-
-### *Hi there 👋*
-
 <!--
 **usernamer/ussernamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Usernamer <img src="https://media0.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="50"></h2>
+
+### *Hi there 👋*
 
 Follow me on other git host services instead:
 - https://gitlab.com/usernamer

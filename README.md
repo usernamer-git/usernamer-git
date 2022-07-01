@@ -22,6 +22,9 @@ Follow me on other git host services instead:
 - https://gitea.com/usernamer
 - https://codeberg.org/username
 
+<img src="https://sfconservancy.org/img/GiveUpGitHub.svg">
+<a href="https://sfconservancy.org/GiveUpGitHub/"><img src="https://sfconservancy.org/img/GiveUpGitHub.svg"></a>
+
 <!-- https://github.com/anuraghazra/github-readme-stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamer-git&layout=compact&show_icons=true&border_color=0D1117&bg_color=0D1117) -->
 

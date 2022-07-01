@@ -22,7 +22,7 @@ Follow me on other git host services instead:
 - https://gitea.com/usernamer
 - https://codeberg.org/username
 
-### Github is the new Facebook to Devs.
+### Github is the new Facebook for Devs.
 
 <a href="https://sfconservancy.org/GiveUpGitHub/"><img src="https://sfconservancy.org/img/GiveUpGitHub.svg"></a>
 
